@@ -1,6 +1,6 @@
 # Reinforcement Learning for Integer Programming: Learning to Cut 
 
-This is the repo of Reinforcement Learning for Integer Programming. 
+This is the repo of NeurIPS 2019 submission - Reinforcement Learning for Integer Programming: Learning to Cut. 
 
 ## Dependencies
 The code works in Python 2.7. You need to install Chainer, Cython, Gurobi (Gurobi-py).
